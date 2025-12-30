@@ -10,7 +10,7 @@ const Team = () => {
     },
     {
       name: "Mr. Muhammad Usman Ahsan",
-      role: "GM Operations",
+      role: "Sales & Marketing Manager",
       image: "/rana.jpeg",
     },
     {
