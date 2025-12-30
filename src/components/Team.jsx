@@ -6,22 +6,22 @@ const Team = () => {
     {
       name: "Mr. Ashfaq Ahmad",
       role: "Founder",
-      image: "/public/ashfaq.jpeg",
+      image: "/ashfaq.jpeg",
     },
     {
       name: "Mr. Muhammad Usman Ahsan",
       role: "GM Operations",
-      image: "/public/rana.jpeg",
+      image: "/rana.jpeg",
     },
     {
       name: "Eng. Muhammad Aon Mehdi",
       role: "Project Manager",
-      image: "/public/aon.jpeg",
+      image: "/aon.jpeg",
     },
     {
       name: "Mr. Anees-Ur-Rehman",
       role: "Installation Manager",
-      image: "/public/anees2.jpg",
+      image: "/anees2.jpg",
     },
   ];
 

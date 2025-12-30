@@ -8,14 +8,14 @@ const Testimonials = () => {
     {
       name: "Mian Ehaz Ali",
       role: "CEO, ADG LDI (PVT) LTD.",
-      image: "../../ejaz.jpg",
+      image: "/ejaz.jpg",
       text: "Their engineers are quick to onboard and have contributed to multiple project rollouts. Besides high-quality work, the team values a thriving customer-forward culture.",
       rating: 5,
     },
     {
       name: "Mian Qamar Abbas Anjum",
       role: "CEO, Just Hunters",
-      image: "../../qamar.jpeg",
+      image: "/qamar.jpeg",
       text: "Outstanding service and professionalism. They delivered our solar project on time and within budget. Highly recommend their expertise!",
       rating: 5,
     },
