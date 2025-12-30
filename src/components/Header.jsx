@@ -93,12 +93,6 @@ const Header = () => {
               >
                 Projects
               </a>
-              <a
-                href="#blog"
-                className="text-gray-700 hover:text-accent transition-colors font-medium"
-              >
-                Blog
-              </a>
             </nav>
 
             {/* CTA Button */}
