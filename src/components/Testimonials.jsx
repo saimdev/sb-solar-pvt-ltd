@@ -6,7 +6,7 @@ const Testimonials = () => {
 
   const testimonials = [
     {
-      name: "Mian Ehaz Ali",
+      name: "Mian Ejaz Ali",
       role: "CEO, ADG LDI (PVT) LTD.",
       image: "/ejaz.jpg",
       text: "Their engineers are quick to onboard and have contributed to multiple project rollouts. Besides high-quality work, the team values a thriving customer-forward culture.",
