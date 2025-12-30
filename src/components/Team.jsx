@@ -37,9 +37,8 @@ const Team = () => {
             Our Expert Team
           </h2>
           <p className="text-gray-600 text-lg">
-            We work nationally, leveraging our expertise in more than 20
-            countries by working from our offices in Florida (FL), Argentina,
-            Uruguay, and Paraguay.
+            We work nationally, leveraging our expertise in more than 20 sectors
+            by working from our offices in Lahore and Islamabad.
           </p>
         </div>
 
